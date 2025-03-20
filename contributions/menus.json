@@ -2,7 +2,16 @@
   "mainMenu": {
     "columns": {},
     "groups": {},
-    "items": []
+    "items": [
+      {
+        "label": "%mainMenu_reloadExtensionHost%",
+        "tooltip": "%mainMenu_reloadExtensionHost_description%",
+        "localizeNotes": "Application main menu > Project > Reload Extension Host",
+        "group": "platform.projectResources",
+        "order": 100000000,
+        "command": "platform.restartExtensionHost"
+      }
+    ]
   },
   "defaultWebViewTopMenu": {
     "columns": {},

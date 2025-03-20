@@ -1,6 +1,9 @@
 {
   "metadata": {},
   "localizedStrings": {
-    "en": {}
+    "en": {
+      "%mainMenu_reloadExtensionHost%": "Reload Extension Host",
+      "%mainMenu_reloadExtensionHost_description%": "Restarts the Extension Host, deactivating, reloading, and reactivating all extensions."
+    }
   }
 }
