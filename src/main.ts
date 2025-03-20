@@ -1,10 +1,10 @@
 import { logger } from '@papi/backend';
 
 export async function activate() {
-  logger.info('Extension template is activating!');
+  logger.info('Reload Extension Host is activating!');
 }
 
 export async function deactivate() {
-  logger.info('Extension template is deactivating!');
+  logger.info('Reload Extension Host is deactivating!');
   return true;
 }

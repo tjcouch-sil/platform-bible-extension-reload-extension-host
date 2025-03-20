@@ -1,9 +1,9 @@
 {
-  "name": "paranext-extension-template",
+  "name": "reload-extension-host",
   "private": true,
   "version": "0.0.1",
   "main": "src/main.js",
-  "types": "src/types/paranext-extension-template.d.ts",
+  "types": "src/types/reload-extension-host.d.ts",
   "author": "Paranext",
   "license": "MIT",
   "scripts": {
